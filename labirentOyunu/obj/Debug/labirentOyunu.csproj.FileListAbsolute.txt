@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\labirentOyunu\labirentOyunu\bin\Debug\labirentOyunu.exe.config
+C:\Users\HP\Desktop\labirentOyunu\labirentOyunu\bin\Debug\labirentOyunu.exe
+C:\Users\HP\Desktop\labirentOyunu\labirentOyunu\bin\Debug\labirentOyunu.pdb
+C:\Users\HP\Desktop\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.exe
+C:\Users\HP\Desktop\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.pdb
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\labirentOyunu\labirentOyunu\bin\Debug\labirentOyunu.exe.config
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\labirentOyunu\labirentOyunu\bin\Debug\labirentOyunu.exe
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\labirentOyunu\labirentOyunu\bin\Debug\labirentOyunu.pdb
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.exe
+C:\Users\HP\Desktop\Buket BEKER\Proglamlama\c#\labirentOyunu\labirentOyunu\obj\Debug\labirentOyunu.pdb
